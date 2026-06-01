@@ -1,0 +1,18 @@
+{
+  "name": "dice-tracker",
+  "version": "1.0.0",
+  "description": "Dice tracker with web server - luu 100 phien",
+  "main": "sun.js",
+  "scripts": {
+    "start": "node sun.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": ["dice", "tracker", "render"],
+  "author": "Your Name",
+  "license": "MIT"
+}
